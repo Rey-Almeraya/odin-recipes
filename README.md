@@ -1,0 +1,1 @@
+ESte es un ejemplo de un proyecto inicial que consiste en crear una página web donde se muestren recetas, aplicando todo lo ya aprendido sobre html en Odin Project.
